@@ -1,0 +1,13 @@
+{
+	"name": "hhreact/syb",
+	"description": "Scrap your Hack boilerplate",
+	"require": {
+		"hhvm/hsl": "^4.10",
+		"hhvm/hhvm-autoload": "^2.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"SYB\\": "src"
+		}
+	}
+}

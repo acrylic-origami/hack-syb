@@ -1,0 +1,1 @@
+ignore_paths=["vendor/hhvm/hhvm-autoload/bin"]
